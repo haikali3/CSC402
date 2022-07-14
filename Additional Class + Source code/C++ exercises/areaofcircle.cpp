@@ -11,6 +11,9 @@ int main()
 	circle = pi*r*r;
 	
 	cout << " area of the circle is " << endl;
+  cout << circle;
+	cout << circle;
+	cout << circle;
 	cout << circle;
    return 0;
 }
